@@ -13,7 +13,13 @@ skor minimal -5
 Admin dapat menambahkan soal, mengatur jawaban, management user, melakukan kuis, melihat leaderboard
 user hanya dapat melakukan kuis dan melihat leaderboard saja.
 
-https://bookuask3517014.000webhostapp.com/book/
+https://winsome-source.000webhostapp.com/kuis/
+
+nb: karena error yang aneh dari 000webhost setelah login benar akan ada error, tinggal di refresh saja 
+
+akun: admin(password: admin)
+	  calvin(password: 123)
+
 
 Adhimas Agustinus          (K3517002)
 Calvin Mikhailouzna Gibran (K3517014)
